@@ -32,4 +32,4 @@
 ![Вагон 3Д](https:///aaldesign/aalekhina.github.io/2.JPG"Вагон в 3D")
 
 ***
-![Вид снизу](https://aaldesign.github.io/aalekhina.github.io/вид снизу расцв моя 5703.JPG "Вид снизу")
+![Вид снизу](https://yadi.sk/i/1JuOOYewYDdB5Q "Вид снизу")
