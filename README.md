@@ -32,4 +32,10 @@
 ![Вагон 3Д](https://raw.githubusercontent.com/aaldesign/aalekhina.github.io/master/2.JPG "Вагон в 3D")
 
 ***
-![Вид снизу](https://yadi.sk/i/1JuOOYewYDdB5Q "Вид снизу")
+![Вид снизу](https://raw.githubusercontent.com/aaldesign/aalekhina.github.io/master/вид%20снизу%20расцв%20моя%205703.JPG "Вид снизу")
+
+***
+![Перспектива снизу](https://raw.githubusercontent.com/aaldesign/aalekhina.github.io/master/серебро.JPG "Перспектива снизу")
+
+***
+![Сертификат обучения работе c Siemens NX 8.5](https://raw.githubusercontent.com/aaldesign/aalekhina.github.io/master/458264478.jpeg "Сертификат обучения работе c Siemens NX 8.5")
