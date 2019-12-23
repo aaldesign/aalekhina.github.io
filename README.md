@@ -29,7 +29,7 @@
 
 ## Мои работы По 3D моделированию в Siemens NX
 ***
-![Вагон 3Д](https://raw.githubusercontent.com/aaldesign/aalekhina.github.io/master/2.JPG "Вагон в 3D")
+![Вагон в 3Д](https://raw.githubusercontent.com/aaldesign/aalekhina.github.io/master/2.JPG "Вагон в 3D")
 
 ***
 ![Вид снизу](https://raw.githubusercontent.com/aaldesign/aalekhina.github.io/master/вид%20снизу%20расцв%20моя%205703.JPG "Вид снизу")
