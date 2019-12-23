@@ -27,3 +27,9 @@
 ***
 ![Дизайн для приложения меню ресторана](https://aaldesign.github.io/aalekhina.github.io/6.jpg "Меню приложения для ресторана в Figma")
 
+## Мои работы По 3D моделированию в Siemens NX
+***
+![Вагон 3Д](https://aaldesign.github.io/aalekhina.github.io/2.jpg "Вагон в 3D")
+
+***
+![Вид снизу](https://aaldesign.github.io/aalekhina.github.io/вид снизу расцв моя 5703.JPG "Вид снизу")
